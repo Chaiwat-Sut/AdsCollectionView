@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "32197A61-B4B5-4FEE-A3C9-4460EEA72E37"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24A22FAB-93D9-4C0E-9084-5485CAAD53DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwitchProject/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "validateSwitches()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ADF6A07-94AE-470C-B315-ED984B7A0271"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwitchProject/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "validateSwitches()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0D16807-0E98-42F3-AB77-47368119A651"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwitchProject/AdsCollectionView/AdsCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "AdsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B0D16807-0E98-42F3-AB77-47368119A651 - 63a4ee3f5d82532f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.AdsViewController.dataSource.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/AdsCollectionView/AdsCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B0D16807-0E98-42F3-AB77-47368119A651 - fb6ea40757c74f3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.AdsViewController.dataSource.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/AdsCollectionView/AdsCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "B0D16807-0E98-42F3-AB77-47368119A651 - f27744b93a0c0e28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.AdsViewController.dataSource.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/AdsCollectionView/AdsCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B0D16807-0E98-42F3-AB77-47368119A651 - a2347180d5597aed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.AdsViewController.dataSource.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/AdsCollectionView/AdsCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B0D16807-0E98-42F3-AB77-47368119A651 - 9d4a6b7f3646f181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.AdsViewController.init() -&gt; SwitchProject.AdsViewController"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/AdsCollectionView/AdsCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "B0D16807-0E98-42F3-AB77-47368119A651 - b9ce90b1dcceb69b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.AdsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SwitchProject.AdsViewController&gt;"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/AdsCollectionView/AdsCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2639AAD-4F48-400C-8B28-D1D0A69EC4B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwitchProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "scrollViewWillEndDragging(_:withVelocity:targetContentOffset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2639AAD-4F48-400C-8B28-D1D0A69EC4B5 - fa9fa6f3d15679cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.ViewController.scrollViewWillEndDragging(_: __C.UIScrollView, withVelocity: __C.CGPoint, targetContentOffset: Swift.UnsafeMutablePointer&lt;__C.CGPoint&gt;) -&gt; ()"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "E2639AAD-4F48-400C-8B28-D1D0A69EC4B5 - fa9fa6f3d15679cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.ViewController.scrollViewWillEndDragging(_: __C.UIScrollView, withVelocity: __C.CGPoint, targetContentOffset: Swift.UnsafeMutablePointer&lt;__C.CGPoint&gt;) -&gt; ()"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "E2639AAD-4F48-400C-8B28-D1D0A69EC4B5 - fa9fa6f3d156792a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwitchProject.ViewController.scrollViewWillEndDragging(_: __C.UIScrollView, withVelocity: __C.CGPoint, targetContentOffset: Swift.UnsafeMutablePointer&lt;__C.CGPoint&gt;) -&gt; ()"
+                  moduleName = "SwitchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a667459/Documents/swift-project/SwitchProject/SwitchProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
