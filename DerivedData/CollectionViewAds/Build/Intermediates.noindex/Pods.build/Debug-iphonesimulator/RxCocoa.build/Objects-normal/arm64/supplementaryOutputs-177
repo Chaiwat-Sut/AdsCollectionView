@@ -1,0 +1,45 @@
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/iOS/UIAlertAction+Rx.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIAlertAction+Rx.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIAlertAction+Rx.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIAlertAction+Rx.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIAlertAction+Rx.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/iOS/UIActivityIndicatorView+Rx.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIActivityIndicatorView+Rx.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIActivityIndicatorView+Rx.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIActivityIndicatorView+Rx.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIActivityIndicatorView+Rx.swiftdeps"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/iOS/UICollectionView+Rx.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UICollectionView+Rx.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UICollectionView+Rx.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UICollectionView+Rx.dia"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UICollectionView+Rx.d"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/iOS/UIControl+Rx.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIControl+Rx.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIControl+Rx.swiftdeps"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIControl+Rx.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIControl+Rx.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/Traits/Signal/Signal+Subscription.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal+Subscription.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal+Subscription.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal+Subscription.swiftdeps"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal+Subscription.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/Common/TextInput.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/TextInput.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/TextInput.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/TextInput.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/TextInput.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/iOS/UIBarButtonItem+Rx.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIBarButtonItem+Rx.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIBarButtonItem+Rx.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIBarButtonItem+Rx.swiftdeps"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIBarButtonItem+Rx.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/iOS/UIButton+Rx.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIButton+Rx.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIButton+Rx.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIButton+Rx.dia"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIButton+Rx.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxCocoa/RxCocoa/iOS/UIApplication+Rx.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIApplication+Rx.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIApplication+Rx.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIApplication+Rx.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIApplication+Rx.dia"

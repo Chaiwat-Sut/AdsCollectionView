@@ -1,0 +1,51 @@
+Target dependency graph (20 targets)
+RxSwift in Pods, no dependencies
+RxRelay in Pods, depends on:
+RxSwift in Pods (explicit)
+RxCocoa in Pods, depends on:
+RxRelay in Pods (explicit)
+RxSwift in Pods (explicit)
+Pods-CollectionViewAds in Pods, depends on:
+RxCocoa in Pods (explicit)
+RxRelay in Pods (explicit)
+RxSwift in Pods (explicit)
+CollectionViewAds in CollectionViewAds, depends on:
+Pods-CollectionViewAds in Pods (implicit dependency via file 'Pods_CollectionViewAds.framework' in build phase 'Link Binary')
+RxCocoa in Pods (implicit dependency via options '-framework RxCocoa' in build setting 'OTHER_LDFLAGS')
+RxRelay in Pods (implicit dependency via options '-framework RxRelay' in build setting 'OTHER_LDFLAGS')
+RxSwift in Pods (implicit dependency via options '-framework RxSwift' in build setting 'OTHER_LDFLAGS')
+RxSwift in Pods, no dependencies
+RxRelay in Pods, depends on:
+RxSwift in Pods (explicit)
+RxCocoa in Pods, depends on:
+RxRelay in Pods (explicit)
+RxSwift in Pods (explicit)
+Pods-CollectionViewAds in Pods, depends on:
+RxCocoa in Pods (explicit)
+RxRelay in Pods (explicit)
+RxSwift in Pods (explicit)
+CollectionViewAds in CollectionViewAds, depends on:
+Pods-CollectionViewAds in Pods (implicit dependency via file 'Pods_CollectionViewAds.framework' in build phase 'Link Binary')
+RxCocoa in Pods (implicit dependency via options '-framework RxCocoa' in build setting 'OTHER_LDFLAGS')
+RxRelay in Pods (implicit dependency via options '-framework RxRelay' in build setting 'OTHER_LDFLAGS')
+RxSwift in Pods (implicit dependency via options '-framework RxSwift' in build setting 'OTHER_LDFLAGS')
+CollectionViewAdsTests in CollectionViewAds, depends on:
+CollectionViewAds in CollectionViewAds (explicit)
+CollectionViewAdsTests in CollectionViewAds, depends on:
+CollectionViewAds in CollectionViewAds (explicit)
+CollectionViewAdsTests in CollectionViewAds, no dependencies
+CollectionViewAdsUITests in CollectionViewAds, depends on:
+CollectionViewAds in CollectionViewAds (explicit)
+CollectionViewAdsUITests in CollectionViewAds, depends on:
+CollectionViewAds in CollectionViewAds (explicit)
+CollectionViewAdsUITests in CollectionViewAds, no dependencies
+RxSwift in Pods, no dependencies
+RxRelay in Pods, depends on:
+RxSwift in Pods (explicit)
+RxCocoa in Pods, depends on:
+RxRelay in Pods (explicit)
+RxSwift in Pods (explicit)
+Pods-CollectionViewAds in Pods, depends on:
+RxCocoa in Pods (explicit)
+RxRelay in Pods (explicit)
+RxSwift in Pods (explicit)

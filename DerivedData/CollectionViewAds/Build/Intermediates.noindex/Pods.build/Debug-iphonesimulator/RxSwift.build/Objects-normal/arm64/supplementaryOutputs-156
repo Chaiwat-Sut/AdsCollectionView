@@ -1,0 +1,60 @@
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/ToArray.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/ToArray.o"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/ToArray.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/ToArray.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/ToArray.swiftdeps"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Zip+arity.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip+arity.o"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip+arity.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip+arity.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip+arity.swiftdeps"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/WithLatestFrom.swift":
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/WithLatestFrom.swiftdeps"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/WithLatestFrom.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/WithLatestFrom.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/WithLatestFrom.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Zip+Collection.swift":
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip+Collection.dia"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip+Collection.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip+Collection.swiftdeps"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip+Collection.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Timer.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Timer.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Timer.swiftdeps"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Timer.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Timer.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Using.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Using.o"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Using.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Using.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Using.swiftdeps"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Window.swift":
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Window.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Window.dia"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Window.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Window.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Throttle.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Throttle.o"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Throttle.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Throttle.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Throttle.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Schedulers/VirtualTimeScheduler.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/VirtualTimeScheduler.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/VirtualTimeScheduler.swiftdeps"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/VirtualTimeScheduler.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/VirtualTimeScheduler.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Schedulers/VirtualTimeConverterType.swift":
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/VirtualTimeConverterType.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/VirtualTimeConverterType.swiftdeps"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/VirtualTimeConverterType.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/VirtualTimeConverterType.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Timeout.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Timeout.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Timeout.swiftdeps"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Timeout.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Timeout.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Zip.swift":
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip.dia"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip.o"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Zip.swiftdeps"

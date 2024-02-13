@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "891402776f69a5ac8e6db01913184e1ae3d21d16c2d8a565b725a7cdb2764d02"
+    }
+  ],
+  "containerPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/CollectionViewAds.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Products",
+      "pchPath" : "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,65 @@
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/AsSingle.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsSingle.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsSingle.dia"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsSingle.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsSingle.swiftdeps"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/Platform/AtomicInt.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AtomicInt.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AtomicInt.swiftdeps"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AtomicInt.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AtomicInt.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/AddRef.swift":
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AddRef.dia"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AddRef.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AddRef.swiftdeps"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AddRef.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Subjects/BehaviorSubject.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/BehaviorSubject.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/BehaviorSubject.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/BehaviorSubject.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/BehaviorSubject.swiftdeps"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Concurrency/AsyncLock.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsyncLock.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsyncLock.dia"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsyncLock.swiftdeps"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsyncLock.d"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/Platform/DataStructures/Bag.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Bag.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Bag.dia"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Bag.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Bag.swiftdeps"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Disposables/AnonymousDisposable.swift":
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnonymousDisposable.swiftdeps"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnonymousDisposable.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnonymousDisposable.dia"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnonymousDisposable.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observers/AnonymousObserver.swift":
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnonymousObserver.swiftdeps"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnonymousObserver.d"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnonymousObserver.dia"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnonymousObserver.o"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/Amb.swift":
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Amb.dia"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Amb.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Amb.swiftdeps"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Amb.d"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Subjects/AsyncSubject.swift":
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsyncSubject.d"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsyncSubject.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsyncSubject.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsyncSubject.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/AnyObserver.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnyObserver.o"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnyObserver.dia"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnyObserver.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AnyObserver.swiftdeps"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Observables/AsMaybe.swift":
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsMaybe.o"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsMaybe.d"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsMaybe.swiftdeps"
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/AsMaybe.dia"
+"/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxSwift/RxSwift/Extensions/Bag+Rx.swift":
+  diagnostics: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Bag+Rx.dia"
+  object: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Bag+Rx.o"
+  swift-dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Bag+Rx.swiftdeps"
+  dependencies: "/Users/a667459/Documents/swift-project/CollectionViewAds/DerivedData/CollectionViewAds/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Bag+Rx.d"

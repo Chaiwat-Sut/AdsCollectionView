@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0056CF33-D8B4-4E95-993A-0FF9665FF14B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0056CF33-D8B4-4E95-993A-0FF9665FF14B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewAds project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewAds</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean CollectionViewAds</string>
+			<key>timeStartedRecording</key>
+			<real>729492037.68599296</real>
+			<key>timeStoppedRecording</key>
+			<real>729492038.05536699</real>
+			<key>title</key>
+			<string>Clean CollectionViewAds</string>
+			<key>uniqueIdentifier</key>
+			<string>0056CF33-D8B4-4E95-993A-0FF9665FF14B</string>
+		</dict>
+		<key>32179D36-DB8F-47B9-BD09-986EFD51A27C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32179D36-DB8F-47B9-BD09-986EFD51A27C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewAds project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewAds</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewAds</string>
+			<key>timeStartedRecording</key>
+			<real>729492319.37970805</real>
+			<key>timeStoppedRecording</key>
+			<real>729492321.76803899</real>
+			<key>title</key>
+			<string>Build CollectionViewAds</string>
+			<key>uniqueIdentifier</key>
+			<string>32179D36-DB8F-47B9-BD09-986EFD51A27C</string>
+		</dict>
+		<key>672EEDB0-CA17-426E-B716-536DE90339B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>672EEDB0-CA17-426E-B716-536DE90339B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewAds project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewAds</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean CollectionViewAds</string>
+			<key>timeStartedRecording</key>
+			<real>729491310.55879104</real>
+			<key>timeStoppedRecording</key>
+			<real>729491311.08552694</real>
+			<key>title</key>
+			<string>Clean CollectionViewAds</string>
+			<key>uniqueIdentifier</key>
+			<string>672EEDB0-CA17-426E-B716-536DE90339B8</string>
+		</dict>
+		<key>764D4608-B165-4354-A58D-891104C633CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>764D4608-B165-4354-A58D-891104C633CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewAds project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewAds</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewAds</string>
+			<key>timeStartedRecording</key>
+			<real>729491311.978122</real>
+			<key>timeStoppedRecording</key>
+			<real>729491338.97199798</real>
+			<key>title</key>
+			<string>Build CollectionViewAds</string>
+			<key>uniqueIdentifier</key>
+			<string>764D4608-B165-4354-A58D-891104C633CA</string>
+		</dict>
+		<key>90200909-E468-44A5-87BA-4D66ECDA4071</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90200909-E468-44A5-87BA-4D66ECDA4071.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewAds project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewAds</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewAds</string>
+			<key>timeStartedRecording</key>
+			<real>729492039.597718</real>
+			<key>timeStoppedRecording</key>
+			<real>729492048.43804395</real>
+			<key>title</key>
+			<string>Build CollectionViewAds</string>
+			<key>uniqueIdentifier</key>
+			<string>90200909-E468-44A5-87BA-4D66ECDA4071</string>
+		</dict>
+		<key>9929EAFB-1C41-46D4-AA53-13BEA520C914</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9929EAFB-1C41-46D4-AA53-13BEA520C914.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewAds project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewAds</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewAds</string>
+			<key>timeStartedRecording</key>
+			<real>729492363.16419601</real>
+			<key>timeStoppedRecording</key>
+			<real>729492366.66539204</real>
+			<key>title</key>
+			<string>Build CollectionViewAds</string>
+			<key>uniqueIdentifier</key>
+			<string>9929EAFB-1C41-46D4-AA53-13BEA520C914</string>
+		</dict>
+		<key>C20CCF1A-005E-4007-94A3-42BEDC9E1422</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C20CCF1A-005E-4007-94A3-42BEDC9E1422.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewAds project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewAds</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewAds</string>
+			<key>timeStartedRecording</key>
+			<real>729491293.61879003</real>
+			<key>timeStoppedRecording</key>
+			<real>729491293.78953302</real>
+			<key>title</key>
+			<string>Build CollectionViewAds</string>
+			<key>uniqueIdentifier</key>
+			<string>C20CCF1A-005E-4007-94A3-42BEDC9E1422</string>
+		</dict>
+		<key>DBBC7FC6-0265-4DB2-A25F-C5DF947F6BF4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBBC7FC6-0265-4DB2-A25F-C5DF947F6BF4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewAds project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewAds</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewAds</string>
+			<key>timeStartedRecording</key>
+			<real>729490703.727283</real>
+			<key>timeStoppedRecording</key>
+			<real>729490711.77641106</real>
+			<key>title</key>
+			<string>Build CollectionViewAds</string>
+			<key>uniqueIdentifier</key>
+			<string>DBBC7FC6-0265-4DB2-A25F-C5DF947F6BF4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
