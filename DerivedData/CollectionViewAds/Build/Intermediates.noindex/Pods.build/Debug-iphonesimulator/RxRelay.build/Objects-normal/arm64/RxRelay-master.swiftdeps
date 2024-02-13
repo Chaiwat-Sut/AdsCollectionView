@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "e0c30e66c7da13af06f8597ceeb82f89a6b381a5db21713d2ab4e7a3320af129"
-build_start_time: [1707799243, 289649000]
-build_end_time: [1707799246, 181720000]
-inputs:
-  "/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxRelay/RxRelay/BehaviorRelay.swift": [1707202013, 311157371]
-  "/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxRelay/RxRelay/Observable+Bind.swift": [1707202013, 309867452]
-  "/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxRelay/RxRelay/PublishRelay.swift": [1707202013, 308948451]
-  "/Users/a667459/Documents/swift-project/CollectionViewAds/Pods/RxRelay/RxRelay/Utils.swift": [1707202013, 310488870]
